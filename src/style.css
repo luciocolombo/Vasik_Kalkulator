@@ -1,0 +1,36 @@
+body {
+  background-color: grey;
+}
+.disp {
+  height: 100px;
+  background-color: rgba(0, 14, 39, 0.795);
+  color: rgb(101, 126, 235);
+  padding: 10px;
+  font-family: "Big Shoulders Stencil Display", cursive;
+}
+.content {
+  background-color: rgb(0, 0, 68);
+}
+.all {
+  border: 10px solid rgb(0, 17, 36);
+}
+Button {
+  width: 80px;
+  margin: 2px;
+}
+.equalbutton {
+  width: 250px;
+  margin-bottom: 20px;
+}
+footer {
+  background-color: rgb(0, 129, 86);
+  font-style: italic;
+  border: 1px solid black;
+  margin: auto;
+  text-align: center;
+  padding-top: 10px;
+}
+.span {
+  font-weight: 700;
+  color: black;
+}
