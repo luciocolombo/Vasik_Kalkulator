@@ -48,6 +48,8 @@ import "./style.css"
           break;
           case "/": calculate=this.state.display.join('')*1/this.state.display2.join('')*1;
           break;
+          default:
+            break;
         }
         this.setState({
           result:calculate
