@@ -13,6 +13,7 @@ body {
 }
 .all {
   border: 10px solid rgb(0, 17, 36);
+  min-width: 300px;
 }
 Button {
   width: 80px;
